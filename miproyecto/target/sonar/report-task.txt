@@ -1,0 +1,6 @@
+projectKey=curso
+serverUrl=http://172.31.4.169:8081
+serverVersion=8.6.0.39681
+dashboardUrl=http://172.31.4.169:8081/dashboard?id=curso
+ceTaskId=AXZnTrHWMx5JbE7SaxjL
+ceTaskUrl=http://172.31.4.169:8081/api/ce/task?id=AXZnTrHWMx5JbE7SaxjL
